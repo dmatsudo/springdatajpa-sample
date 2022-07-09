@@ -1,0 +1,13 @@
+package com.danisample.springdatajpasample;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class SpringdatajpaSampleApplicationTests {
+
+	@Test
+	void contextLoads() {
+	}
+
+}
